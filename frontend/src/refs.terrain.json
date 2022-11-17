@@ -1,0 +1,10 @@
+{
+  "testnet": {
+    "my_terra_dapp": {
+      "codeId": "5574",
+      "contractAddresses": {
+        "default": "terra1jvtsmfnpeu4ywx9x7heafe992ufasa53ne9zrxdrc6jqqx6g020sa3l546"
+      }
+    }
+  }
+}
